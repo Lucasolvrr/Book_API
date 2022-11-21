@@ -1,5 +1,5 @@
 # Book_API
-API simples para livros ultilizando os endpoints: GET, PUT, POST, EDIT e DELETE
+A simple Books API using endpoints: GET, PUT, POST, EDIT e DELETE
 
 # Endpoints- 
     - localhost/livros (GET)
